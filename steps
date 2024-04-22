@@ -1,0 +1,26 @@
+pip install face-recognition
+
+if error in face_recognition
+Go to Terminal
+    ## for Python 3.8 64 bit
+    pip install .\Dlib_Windows_Python3.x-main\dlib-19.19.0-cp38-cp38-win_amd64.whl
+
+    ## for Python 3.7 64 bit
+    pip install .\Dlib_Windows_Python3.x-main\dlib-19.19.0-cp37-cp37m-win_amd64.whl
+
+    ## for Python 3.11 64 bit
+    pip install .\Dlib_Windows_Python3.x-main\dlib-19.24.1-cp311-cp311-win_amd64.whl
+
+    ## for Python 3.10 bit
+    pip install .\Dlib_Windows_Python3.x-main/dlib-19.22.99-cp310-cp310-win_amd64.whl
+
+pip install cmake
+pip install face-recognition
+pip install streamlit(version 1.25.0) opencv-python
+pip install streamlit_option_menu
+
+
+#############################################################################
+
+## is ur webcam is not good, and wanna use some other camera, use mozilla firefox as chrome doesn't allow u to change the camera
+
